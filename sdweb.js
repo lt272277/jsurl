@@ -1,3 +1,7 @@
-function zxbbjy() {
-	alert("加载成功");
+function zxbbjy(bbh) {
+	alert(bbh);
+}
+
+function postsj() {
+	alert("POST");
 }
