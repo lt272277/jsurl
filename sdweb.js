@@ -1,7 +1,7 @@
-function zxbbjy(bbh) {
-	alert(bbh);
+function zxbbjy(zxmm, bbh) {
+	alert(zxmm + bbh);
 }
 
-function postsj() {
-	alert("POST");
+function fstjsj(fsmm) {
+	alert(fsmm);
 }
